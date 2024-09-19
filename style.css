@@ -1,0 +1,43 @@
+.title {
+  color: powderblue;
+  font-size: 50px;
+  font-style: italic;
+}
+
+.subtext {
+  color: powderblue;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.subtext2 {
+  color: rgb(21, 106, 233);
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.subtext3 {
+  color: rgb(74, 143, 247);
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.subtext4 {
+  color: rgb(74, 143, 247);
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+.container {
+  width: 600px;
+  margin: 100px auto;
+}
+
+.reindeer {
+  display: block;
+}
+.Ronaldo {
+  display: block;
+  width: 200px;
+}
+
+body {
+  background-color: snow;
+}
